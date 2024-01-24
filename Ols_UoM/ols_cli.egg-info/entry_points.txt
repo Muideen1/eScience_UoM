@@ -1,0 +1,2 @@
+[console_scripts]
+ols = ols.ols:fetch_ontology_info_cli
